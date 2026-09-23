@@ -15,6 +15,7 @@
 
 ## 專案結構
 
+```
 .
 ├── index.js # 伺服器入口、所有路由
 ├── db.js # Prisma Client 實例
@@ -22,7 +23,7 @@
 │ ├── schema.prisma # 資料庫設計（Product / User / Order）
 │ └── migrations/ # 資料庫遷移歷史
 └── .env # 環境變數（不進版控）
-
+```
 
 ## 資料模型
 
