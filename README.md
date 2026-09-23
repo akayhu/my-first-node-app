@@ -1,6 +1,6 @@
 # 好物選物 STORE — 後端 API
 
-好物選物電商專案的後端服務。提供商品 CRUD、會員註冊登入（JWT 認證）、訂單建立等 RESTful API，搭配 [前端專案](../my-vue-shop) 組成完整的全端電商應用。
+好物選物電商專案的後端服務。提供商品 CRUD、會員註冊登入（JWT 認證）、訂單建立等 RESTful API，搭配 [前端專案](https://github.com/akayhu/my-vue-shop) 組成完整的全端電商應用。
 
 ## 技術棧
 
